@@ -1,6 +1,6 @@
 # Journey of 66Days_MachineLearning
 
-![Images](https://github.com/mohsinmahmood12/66Days_MachineLearning/blob/main/Images/images.jpeg)
+![Images](https://github.com/mohsinmahmood12/66Days_MachineLearning/blob/main/Images/ML.jpeg)
 
 **Day1 of 66DaysOfData!**
   
