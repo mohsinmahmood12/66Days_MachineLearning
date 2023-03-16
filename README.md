@@ -32,3 +32,11 @@
 
 ![Images](https://github.com/mohsinmahmood12/66Days_MachineLearning/blob/main/Images/GradientDescent.png)
 
+**Day3 of 66DaysOfData!**
+  
+  **💡 Perceptron Algorithm:**
+  - The Perceptron is one of the simplest ANN architectures, invented by Frank Rosenblatt. It is based on a slightly different artificial neuron called a threshold logic unit (TLU).
+  - Perceptron algorithm is a simple classification method that plays an important role in development of the much more flexible neural network and are trained using the stochastic gradient descent optimization algorithm.
+  - It consists of single node or neuron that takes a row of data as input and predicts a class label. This is achieved by calculating the weighted sum of the inputs and a bias (set to 1). The weighted sum of the input is called activation.
+  
+![Images](https://github.com/mohsinmahmood12/66Days_MachineLearning/blob/main/Images/Perceptron.png)
